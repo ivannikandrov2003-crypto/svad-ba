@@ -1,0 +1,24 @@
+:root {
+  --blush-petal: #e0aeba;
+  --tulip-bloom: #d784b4;
+  --crushed-rose: #8b263e;
+  --spring-olive: #786d25;
+  --deep-garden: #292800;
+  --soft-gold: #d7b46a;
+  --ivory-mist: #fffaf6;
+  --rose-veil: rgba(139, 38, 62, 0.08);
+  --text-charcoal: #2f2a2c;
+  --success-green: #2e8b57;
+  --danger-red: #c24545;
+  --white: #ffffff;
+  --shadow-soft: 0 18px 40px rgba(41, 40, 0, 0.12);
+  --shadow-card: 0 10px 25px rgba(139, 38, 62, 0.12);
+  --border-soft: rgba(139, 38, 62, 0.14);
+  --mono-base: #e0aeba;
+  --mono-surface: #e0aeba;
+  --mono-surface-strong: #d79bab;
+  --mono-border: rgba(139, 38, 62, 0.18);
+  --mono-accent: #8b263e;
+  --mono-accent-soft: rgba(139, 38, 62, 0.08);
+  --mono-text: #4d1f2c;
+}

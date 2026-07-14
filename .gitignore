@@ -1,0 +1,6 @@
+node_modules/
+.playwright-browsers/
+
+# Local screenshots and QA artifacts
+qa-*.png
+screenshot-*.png
